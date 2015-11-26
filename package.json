@@ -1,0 +1,26 @@
+{
+  "name": "exchange_ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --open=src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teubanks/exchange_ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teubanks/exchange_ui/issues"
+  },
+  "homepage": "https://github.com/teubanks/exchange_ui#readme",
+  "dependencies": {
+    "angular": "^1.4.8"
+  },
+  "devDependencies": {
+    "live-server": "0.8.2"
+  }
+}
